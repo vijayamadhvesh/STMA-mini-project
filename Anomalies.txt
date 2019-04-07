@@ -1,0 +1,4 @@
+ANOMALIES:
+1.	Avg. service time < Actual service time. 
+2.	First Service started late. 
+3. 	Early Closing of Service.
