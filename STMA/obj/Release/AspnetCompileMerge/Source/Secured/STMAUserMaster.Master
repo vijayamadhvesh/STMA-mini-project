@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="STMAUserMaster.master.cs" Inherits="STMA.STMAUserMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <link rel="stylesheet" type="text/css" href="../Content/STMAStyles.css">
+    <style type="text/css">
+        .auto-style4 {
+            width: 598px;
+        }
+        .auto-style5 {
+            width: 433px;
+        }
+        .auto-style6 {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+   <form id="form1" runat="server">
+    <table width="80%" height="100px" border="0" align="center" style="background-color:#77a3f3" >
+                       
+            <tr>
+                
+                <td><img alt="AAM LOGO" src="../Images/aamLogo7.PNG" /></td>
+                
+                <td width="50%">
+                    <table width="80%" border="0"  align="center">
+                        <tr>
+            <td align="left"><b>Service Token Management System</b><br /> </td>
+            </tr>
+        <tr>
+            <td align="left"><b>Today: <%=DateTime.Now.ToString("dddd, dd MMMM yyyy") %></b><br /> </td>
+            </tr>
+            <tr>
+            <td align="left" ><b><asp:Label ID="lblUserName" runat="server"></asp:Label></b><br />                        
+            </td>
+
+            </tr>
+            <tr>
+            <td align="left" >
+                &nbsp;
+                <asp:Button ID="btnSignout" runat="server" Text="Sign out" OnClick="btnSignout_Click" CssClass="btnNormal" /></td>
+        </tr>
+    </table>
+
+                </td>
+            </tr>
+           
+        </table>
+       <table width="80%" align="center"><tr><td align="center" style="background-color:#b2b2b7" >
+           <b><asp:Label ID="lblRoomNo" runat="server" ></asp:Label></b></td></tr></table>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+
+</body>
+</html>

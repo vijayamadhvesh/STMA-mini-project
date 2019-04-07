@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="STMAMaster.master.cs" Inherits="STMA.STMAMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="Content/STMAStyles.css">
+</head>
+<body>
+        <table width="40%" border="0" align="center" style="background-color:#77a3f3" >
+                       
+            <tr>
+                
+                <td>
+                    <img alt="AAM LOGO" src="Images/aamLogo7.PNG" />
+                </td>
+                </tr>
+            <tr>
+                
+                <td width="40%">
+                    <table width="80%" border="0"  align="center">
+                        <tr>
+                    <td align="left"><b>Service Token Management System</b><br /> </td>
+                    </tr>
+                    <tr>
+                    <td align="left"><b>Today: <%=DateTime.Now.ToString("dddd, dd MMMM yyyy") %></b><br /> </td>
+                    </tr>
+                    <tr>
+                    <td align="left" >
+
+                         <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+                    </td>
+
+                    </tr>
+                    <tr>
+                        <td align="left" >&nbsp;</td>
+                    </tr>
+                    </table>
+
+                </td>
+            </tr>
+           
+        </table>
+       
+</body>
+</html>

@@ -1,0 +1,176 @@
+D:\Miniproject\STMA\STMA\bin\ApplicationInsights.config
+D:\Miniproject\STMA\STMA\bin\STMA.dll.config
+D:\Miniproject\STMA\STMA\bin\STMA.dll
+D:\Miniproject\STMA\STMA\bin\STMA.pdb
+D:\Miniproject\STMA\STMA\bin\roslyn\csc.exe
+D:\Miniproject\STMA\STMA\bin\roslyn\csc.exe.config
+D:\Miniproject\STMA\STMA\bin\roslyn\csc.rsp
+D:\Miniproject\STMA\STMA\bin\roslyn\csi.exe
+D:\Miniproject\STMA\STMA\bin\roslyn\csi.exe.config
+D:\Miniproject\STMA\STMA\bin\roslyn\csi.rsp
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Miniproject\STMA\STMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.AppContext.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Collections.Immutable.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Console.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Diagnostics.Process.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.IO.Compression.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.IO.FileSystem.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.IO.Pipes.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Reflection.Metadata.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.AccessControl.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.Claims.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Threading.Thread.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.ValueTuple.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Xml.XPath.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Miniproject\STMA\STMA\bin\roslyn\vbc.exe
+D:\Miniproject\STMA\STMA\bin\roslyn\vbc.exe.config
+D:\Miniproject\STMA\STMA\bin\roslyn\vbc.rsp
+D:\Miniproject\STMA\STMA\bin\roslyn\VBCSCompiler.exe
+D:\Miniproject\STMA\STMA\bin\roslyn\VBCSCompiler.exe.config
+D:\Miniproject\STMA\STMA\bin\Antlr3.Runtime.dll
+D:\Miniproject\STMA\STMA\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Miniproject\STMA\STMA\bin\AspNet.ScriptManager.jQuery.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.DependencyCollector.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.Web.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.WindowsServer.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.ApplicationInsights.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Miniproject\STMA\STMA\bin\Microsoft.Web.Infrastructure.dll
+D:\Miniproject\STMA\STMA\bin\Newtonsoft.Json.dll
+D:\Miniproject\STMA\STMA\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Miniproject\STMA\STMA\bin\System.Web.Optimization.dll
+D:\Miniproject\STMA\STMA\bin\WebGrease.dll
+D:\Miniproject\STMA\STMA\bin\System.Web.Optimization.xml
+D:\Miniproject\STMA\STMA\bin\Newtonsoft.Json.xml
+D:\Miniproject\STMA\STMA\bin\Antlr3.Runtime.pdb
+D:\Miniproject\STMA\STMA\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Miniproject\STMA\STMA\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Miniproject\STMA\STMA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.DependencyCollector.xml
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.WindowsServer.xml
+D:\Miniproject\STMA\STMA\bin\Microsoft.AI.Web.xml
+D:\Miniproject\STMA\STMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Miniproject\STMA\STMA\obj\Release\STMA.csprojAssemblyReference.cache
+D:\Miniproject\STMA\STMA\obj\Release\STMA.csproj.CoreCompileInputs.cache
+D:\Miniproject\STMA\STMA\obj\Release\STMA.csproj.CopyComplete
+D:\Miniproject\STMA\STMA\obj\Release\STMA.dll
+D:\Miniproject\STMA\STMA\obj\Release\STMA.pdb
+G:\Mini Project\STMA\STMA\bin\ApplicationInsights.config
+G:\Mini Project\STMA\STMA\bin\STMA.dll.config
+G:\Mini Project\STMA\STMA\bin\STMA.dll
+G:\Mini Project\STMA\STMA\bin\STMA.pdb
+G:\Mini Project\STMA\STMA\bin\roslyn\csc.exe
+G:\Mini Project\STMA\STMA\bin\roslyn\csc.exe.config
+G:\Mini Project\STMA\STMA\bin\roslyn\csc.rsp
+G:\Mini Project\STMA\STMA\bin\roslyn\csi.exe
+G:\Mini Project\STMA\STMA\bin\roslyn\csi.exe.config
+G:\Mini Project\STMA\STMA\bin\roslyn\csi.rsp
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Mini Project\STMA\STMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.AppContext.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Collections.Immutable.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Console.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Diagnostics.Process.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.IO.Compression.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.IO.FileSystem.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.IO.Pipes.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Reflection.Metadata.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.AccessControl.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.Claims.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Threading.Thread.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.ValueTuple.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Xml.XPath.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Mini Project\STMA\STMA\bin\roslyn\vbc.exe
+G:\Mini Project\STMA\STMA\bin\roslyn\vbc.exe.config
+G:\Mini Project\STMA\STMA\bin\roslyn\vbc.rsp
+G:\Mini Project\STMA\STMA\bin\roslyn\VBCSCompiler.exe
+G:\Mini Project\STMA\STMA\bin\roslyn\VBCSCompiler.exe.config
+G:\Mini Project\STMA\STMA\bin\Antlr3.Runtime.dll
+G:\Mini Project\STMA\STMA\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Mini Project\STMA\STMA\bin\AspNet.ScriptManager.jQuery.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.DependencyCollector.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.Web.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.WindowsServer.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.ApplicationInsights.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Mini Project\STMA\STMA\bin\Microsoft.Web.Infrastructure.dll
+G:\Mini Project\STMA\STMA\bin\Newtonsoft.Json.dll
+G:\Mini Project\STMA\STMA\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Mini Project\STMA\STMA\bin\System.Web.Optimization.dll
+G:\Mini Project\STMA\STMA\bin\WebGrease.dll
+G:\Mini Project\STMA\STMA\bin\System.Web.Optimization.xml
+G:\Mini Project\STMA\STMA\bin\Newtonsoft.Json.xml
+G:\Mini Project\STMA\STMA\bin\Antlr3.Runtime.pdb
+G:\Mini Project\STMA\STMA\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Mini Project\STMA\STMA\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Mini Project\STMA\STMA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.DependencyCollector.xml
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.WindowsServer.xml
+G:\Mini Project\STMA\STMA\bin\Microsoft.AI.Web.xml
+G:\Mini Project\STMA\STMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Mini Project\STMA\STMA\obj\Release\STMA.csprojAssemblyReference.cache
+G:\Mini Project\STMA\STMA\obj\Release\STMA.csproj.CoreCompileInputs.cache
+G:\Mini Project\STMA\STMA\obj\Release\STMA.csproj.CopyComplete
+G:\Mini Project\STMA\STMA\obj\Release\STMA.dll
+G:\Mini Project\STMA\STMA\obj\Release\STMA.pdb
